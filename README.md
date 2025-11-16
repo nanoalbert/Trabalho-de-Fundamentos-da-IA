@@ -4,7 +4,7 @@
     
     O projeto tem como objetivo principal construir um classificador binário, que tem como base um conjunto de atributos clínicos, para prever a ausência (0) ou presença (1) de doenças cardíacas em um paciente.
      
-#Desafios    
+##Desafios    
     
     O desafio reside na diferença entre as escalas, que dificulta o treinamento das RNA (Rede Neural Artificial).
     
